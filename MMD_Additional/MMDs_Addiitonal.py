@@ -4,6 +4,7 @@
 Created on Sat Aug 30 16:48:50 2025
 
 @author: lavecchi
+This code produces the additional plots in Appendix B, about MMDs
 """
 
 import numpy as np
