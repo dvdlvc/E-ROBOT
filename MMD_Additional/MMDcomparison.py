@@ -2,8 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Aug 30 16:48:50 2025
-
 @author: lavecchi
+
+This code reproduces the gradient flows using MMD, as in the main
+body of the paper
 """
 
 import numpy as np
