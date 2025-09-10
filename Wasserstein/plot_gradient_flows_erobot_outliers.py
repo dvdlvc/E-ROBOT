@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 10 19:36:10 2025
+ This code reproduces the gradient flow using E-ROBOT, with different 
+ values of the truncation parameter (lambda_val) and differnt
+ values of the regularization parameter (blur), which can
+ be specified by the user
+@author: lavecchi
+"""
+
 
 import numpy as np
 import matplotlib.pyplot as plt
