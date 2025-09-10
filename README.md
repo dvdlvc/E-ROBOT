@@ -13,10 +13,8 @@ The following files and folders can be used to replicate the results from the pa
 
 *   **`PowerCurves_t1distribution.R`** (R)
     *   Reproduces the Goodness-of-Fit test results under a t-distribution with different degrees-of-freedom.
-*   **`Wasserstein/`** (Python)
-    *   Contains code for the Gradient Flows exercise (Wasserstein distance).
-*   **`MMD_Additional/`** (Python)
-    *   Contains additional code for the Gradient Flows exercise (MMD distance).
+*   **`Wasserstein/` and `MMD_Additional/`** (Python)
+    *   Contains code for the Gradient Flows exercise in the text and in the Appendix.
 *   **`2DBarycenters_morphing_shapesColored.py`** (Python)
     *   Reproduces the results for the barycenter calculation of 2D shapes.
  
