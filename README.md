@@ -1,4 +1,4 @@
-## Welcome to E-ROBOT
+## Welcome to E-ROBOT, a dimension-free method for  robust statistics and machine learning
 
 This repository provides illustrative examples showcasing the benefits and ease-of-use of E-ROBOT. It covers four key tasks addressing inference issues in statistics and typical problems in machine learning. The theory and methods related to the E-ROBOT are available in the working paper "A dimension-free method for  robust statistics and machine learning via  Schrödinger bridge", by Davide La Vecchia and Hang Liu.
 
